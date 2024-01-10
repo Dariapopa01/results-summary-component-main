@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component
 
-![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Results summary component coding challenge](https://github.com/Dariapopa01/results-summary-component-main/blob/main/assets/images/desk.png)
 
 ### The challange
 
@@ -12,7 +12,7 @@ Users should be able to:
 ### Screenshots
 
 -desktop
-![desktop-preview](https://github.com/Dariapopa01/results-summary-component-main/assets/92114784/d939c96d-2aad-4b05-9071-1865a88bdf0d)
+![desktop-preview](https://github.com/Dariapopa01/results-summary-component-main/blob/main/assets/images/desk.png)
 
 -mobile
 ![mobile-design](https://github.com/Dariapopa01/results-summary-component-main/assets/92114784/5f0ee65b-172b-4814-926f-e5eb1fa75001)
